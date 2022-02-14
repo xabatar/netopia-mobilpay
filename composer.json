@@ -1,5 +1,5 @@
 {
-    "name": "birkof/netopia-mobilpay",
+    "name": "xabatar/netopia-mobilpay",
     "description": "Mirroring MobilePay library with composer PSR-4 autoloading capability.",
     "type": "library",
     "authors": [
